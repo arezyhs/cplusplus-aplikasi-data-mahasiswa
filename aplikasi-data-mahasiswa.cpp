@@ -3,6 +3,11 @@
 #include <cctype>
 using namespace std;
 
+/*
+    Created by Akbar Setiyawan
+    arezyh.s
+    */
+
 // function here!
 // validate only digits for nim
 bool is_nim_valid(const string &nim) {
