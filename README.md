@@ -1,9 +1,9 @@
 # Aplikasi Data Mahasiswa (Student Data App)
 
-<h1> Deskripsi Aplikasi </h1>
+<h2> Deskripsi Aplikasi </h2>
 Aplikasi Data Mahasiswa (Student Data App) adalah program sederhana yang memungkinkan pengguna untuk memasukkan dan mengelola data mahasiswa. Aplikasi ini meminta pengguna untuk memasukkan informasi seperti nama, NIM, fakultas, program studi, kota asal, dan nomor telepon, dan kemudian mencetak data yang dimasukkan.
 
-<h1> Fitur Utama </h1>
+<h2> Fitur Utama </h2>
 <ul>
   <li>Validasi data NIM dan nomor telepon untuk memastikan keakuratan informasi.</li>
   <li>Kemampuan untuk mengupdate data atau keluar dari aplikasi setelah data dimasukkan.</li>
@@ -13,7 +13,7 @@ Aplikasi Data Mahasiswa (Student Data App) adalah program sederhana yang memungk
 
 Aplikasi ini bisa digunakan sebagai contoh sederhana untuk mengelola data mahasiswa dan dapat diubah atau dikembangkan lebih lanjut sesuai kebutuhan Anda. Selamat menggunakan aplikasi ini!
 
-<h1> Cara Menggunakan Aplikasi </h1>
+<h2> Cara Menggunakan Aplikasi </h2>
 <ol>
   <li>Jalankan program.</li>
   <li>Ikuti petunjuk untuk memasukkan data mahasiswa.</li>
